@@ -1,0 +1,40 @@
+--------------------------------
+
+# DEMO Videos - Youtube
+
+We uploaded our inference demo videos to youtube (unlisted) for easier access
+
+Faster-RCNN Working Demo:
+`https://youtu.be/BO6FHZmbYDo`
+
+Epoch 200: Reaching Red Cube
+`https://youtu.be/51LI3-b4MFQ`
+
+Epoch 200: Reaching Yellow Cube
+`https://youtu.be/CxDWeZtJwTI`
+
+Epoch 500: Reaching Red Cube
+`https://youtu.be/2gDRGj3lxoM`
+
+Epoch 500: Reaching Yellow Cube
+`https://youtu.be/09_mjudmEZw`
+
+## Demo videos are also available in inference_video_demos directory in submission folder
+
+Faster-RCNN Working Demo:
+`inference_video_demos/inference_faster_rcnn_component.mp4`
+
+Epoch 200: Reaching Red Cube
+`inference_video_demos/inference_200_epochs_red.mp4`
+
+Epoch 200: Reaching Yellow Cube
+`inference_video_demos/inference_video_demos/inference_200_epochs_yellow.mp4`
+
+Epoch 500: Reaching Red Cube
+`inference_video_demos/inference_500_epochs_red.mp4`
+
+Epoch 500: Reaching Yellow Cube
+`inference_video_demos/inference_500_epochs_yellow.mp4`
+
+--------------------------------
+
